@@ -1,1 +1,1 @@
-# SH
+# Skin Disease Diagnosis
